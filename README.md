@@ -1,4 +1,4 @@
-# zomato_project
+# MFZ_project
 
 A new Flutter project.
 
