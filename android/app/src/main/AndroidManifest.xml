@@ -5,6 +5,7 @@
     </uses-permission>
     <application
         android:label="MFZ"
+        android:requestLegacyExternalStorage="true"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
